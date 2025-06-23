@@ -1,4 +1,4 @@
-## For windows use:
+## For Linux use:
 gcc -D_GNU_SOURCE -Wall -O2 -o camaraLinux camaraLinux.c -lX11
 
 
