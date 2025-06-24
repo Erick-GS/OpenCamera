@@ -210,16 +210,6 @@ Get-PnpDevice -Class Camera
 start ms-settings:privacy-webcam
 ```
 
-## 🤝 Contribuciones
-
-Las contribuciones son bienvenidas y apreciadas. Para contribuir:
-
-1. Fork el repositorio
-2. Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
-3. Commit tus cambios (`git commit -am 'Agregar nueva funcionalidad'`)
-4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
-5. Abre un Pull Request con descripción detallada
-
 ### Áreas de Mejora:
 - Soporte para más formatos de video
 - Implementación de controles de cámara (zoom, enfoque, exposición)
@@ -227,9 +217,6 @@ Las contribuciones son bienvenidas y apreciadas. Para contribuir:
 - Soporte para múltiples cámaras simultáneas
 - Interfaz gráfica de usuario
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles completos.
 
 ## 🎯 Objetivos de Aprendizaje
 
